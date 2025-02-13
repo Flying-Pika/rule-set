@@ -1,5 +1,5 @@
 payload:
-- ’+.pglstatp-toutiao.com‘
-- ’+.pangolin-sdk-toutiao.com‘
-- ’+.pangolin-sdk-toutiao1.com‘
-- ’+.pangolin-sdk-toutiao-b.com‘
+- '+.pglstatp-toutiao.com'
+- '+.pangolin-sdk-toutiao.com'
+- '+.pangolin-sdk-toutiao1.com'
+- '+.pangolin-sdk-toutiao-b.com'
