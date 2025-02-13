@@ -1,18 +1,18 @@
 payload:
-- ’checkip.synology.com‘
-- ’checkipv6.synology.com‘
-- ’checkport.synology.com‘
-- ’ddns.synology.com‘
-- ’account.synology.com‘
-- ’sns.synology.com‘
+- 'checkip.synology.com'
+- 'checkipv6.synology.com'
+- 'checkport.synology.com'
+- 'ddns.synology.com'
+- 'account.synology.com'
+- 'sns.synology.com'
 
-- ’v4.plex.tv‘
-- ’e1c.tls.ink‘
+- 'v4.plex.tv'
+- 'e1c.tls.ink'
 
-- ’+.i234.me‘
-- ’+.224678.xyz‘
-- ’+.daddytractor.cc‘
-- ’+.nexconvert.com‘
-- ’+.pfoleb.lol‘
-- ’+.qeuhco.xyz‘
-- ’+.amyconvert.com‘
+- '+.i234.me'
+- '+.224678.xyz'
+- '+.daddytractor.cc'
+- '+.nexconvert.com'
+- '+.pfoleb.lol'
+- '+.qeuhco.xyz'
+- '+.amyconvert.com'
