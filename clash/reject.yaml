@@ -4,3 +4,6 @@ payload:
 - '+.pangolin-sdk-toutiao.com'
 - '+.pangolin-sdk-toutiao1.com'
 - '+.pangolin-sdk-toutiao-b.com'
+
+- 'dns.weixin.qq.com.cn'
+- 'dns.weixin.qq.com'
