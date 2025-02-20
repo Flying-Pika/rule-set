@@ -1,7 +1,4 @@
 payload:
 - 'e1.tls.ink'
-- 'pubsub.plex.tv'
-- 'metadata-static.plex.tv'
-- 'metadata.provider.plex.tv'
 - '+.plex.tv'
 - '+.keeflys.com'
