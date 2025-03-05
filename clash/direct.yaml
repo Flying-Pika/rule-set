@@ -24,8 +24,10 @@ payload:
   - 'app.adjust.com'
   - 'app.appsflyer.com'
   - 'bdtj.tagtic.cn'
+  # > Alibaba
   - 'log.mmstat.com'
   - 'sycm.mmstat.com'
+  # ---(Alphabet)---
   - '+.blog.google'
   - 'ci.android.com'
   - 'clientservices.googleapis.com'
@@ -34,7 +36,9 @@ payload:
   - 'dl.l.google.com'
   - 'redirector.gvt1.com'
   - 'update.googleapis.com'
+  # > Google Flights
   - '+.googletraveladservices.com'
+  # > Firebase Cloud Messaging
   - 'mtalk.google.com'
   - 'alt1-mtalk.google.com'
   - 'alt2-mtalk.google.com'
@@ -44,10 +48,14 @@ payload:
   - 'alt6-mtalk.google.com'
   - 'alt7-mtalk.google.com'
   - 'alt8-mtalk.google.com'
+  # ------
+  # > Tencent
   - 'fairplay.l.qq.com'
   - 'livew.l.qq.com'
   - 'vd.l.qq.com'
   - 'vi.l.qq.com'
+  # > Strava
   - 'analytics.strava.com'
+  # > Umeng
   - 'msg.umeng.com'
   - 'msg.umengcloud.com'
