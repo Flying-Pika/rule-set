@@ -1,25 +1,26 @@
 payload:
-  - ‘checkip.synology.com’
-  - ‘checkipv6.synology.com’
-  - ‘checkport.synology.com’
-  - ‘ddns.synology.com’
-  - ‘account.synology.com’
-  - ‘sns.synology.com’
-  
-  - ‘v4.plex.tv’
-  - ‘e1c.tls.ink’
-  - ‘e1c1.tls.ink’
-  
-  - ‘+.i234.me’
-  - ‘+.224678.xyz’
-  - ‘+.19890216.xyz’
-  - ‘+.225785.xyz’
-  - ‘+.daddytractor.cc’
-  - ‘+.nexconvert.com’
-  - ‘+.pfoleb.lol’
-  - ‘+.qeuhco.xyz’
-  - ‘+.amyconvert.com’
+  - 'checkip.synology.com'
+  - 'checkipv6.synology.com'
+  - 'checkport.synology.com'
+  - 'ddns.synology.com'
+  - 'account.synology.com'
+  - 'sns.synology.com'
 
+  - 'v4.plex.tv'
+  - 'e1c.tls.ink'
+  - 'e1c1.tls.ink'
+
+  - '+.i234.me'
+  - '+.224678.xyz'
+  - '+.19890216.xyz'
+  - '+.225785.xyz'
+  - '+.daddytractor.cc'
+  - '+.nexconvert.com'
+  - '+.pfoleb.lol'
+  - '+.qeuhco.xyz'
+  - '+.amyconvert.com'
+
+# 直连补充规则：https://github.com/ConnersHua/RuleGo/blob/master/Surge/Ruleset/Direct%2B.list
   - 'app.adjust.com'
   - 'app.appsflyer.com'
   - 'bdtj.tagtic.cn'
