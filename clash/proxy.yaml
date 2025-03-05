@@ -1,4 +1,4 @@
 payload:
-- 'e1.tls.ink'
-- '+.plex.tv'
-- '+.keeflys.com'
+    - 'e1.tls.ink'
+    - '+.plex.tv'
+    - '+.keeflys.com'
