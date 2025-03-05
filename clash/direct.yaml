@@ -20,7 +20,6 @@ payload:
   - ‘+.qeuhco.xyz’
   - ‘+.amyconvert.com’
 
-# 直连补充规则：https://github.com/ConnersHua/RuleGo/blob/master/Surge/Ruleset/Direct%2B.list
   - 'app.adjust.com'
   - 'app.appsflyer.com'
   - 'bdtj.tagtic.cn'
