@@ -1,0 +1,1 @@
+surge rule set ，基本的域名 ip 规则，clash与surge能用， clash 为 classcial rule set ，text格式
