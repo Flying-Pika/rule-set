@@ -1,4 +1,4 @@
-payload:
-    - 'e1.tls.ink'
-    - '+.plex.tv'
-    - '+.keeflys.com'
+DOMAIN,e1.tls.ink
+
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,keeflys.com

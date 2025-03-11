@@ -1,7 +1,8 @@
-payload:
-    - 'access.mypikpak.com'
-    - 'dns.weixin.qq.com.cn'
-    - '+.pglstatp-toutiao.com'
-    - '+.pangolin-sdk-toutiao.com'
-    - '+.pangolin-sdk-toutiao1.com'
-    - '+.pangolin-sdk-toutiao-b.com'
+# 秋风去广告规则直连补充
+DOMAIN,access.mypikpak.com
+DOMAIN,dns.weixin.qq.com.cn
+
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
