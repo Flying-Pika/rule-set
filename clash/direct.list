@@ -8,9 +8,11 @@ DOMAIN,sns.synology.com
 DOMAIN,v4.plex.tv
 DOMAIN,e1c.tls.ink
 DOMAIN,e1c1.tls.ink
-DOMAIN,dash.xns.one
+
+DOMAIN-KEYWORD,023168
 
 DOMAIN-SUFFIX,homeassistant.local
+DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,i234.me
 DOMAIN-SUFFIX,224678.xyz
 DOMAIN-SUFFIX,19890216.xyz
@@ -20,5 +22,3 @@ DOMAIN-SUFFIX,nexconvert.com
 DOMAIN-SUFFIX,pfoleb.lol
 DOMAIN-SUFFIX,qeuhco.xyz
 DOMAIN-SUFFIX,amyconvert.com
-
-DOMAIN-KEYWORD,023168
