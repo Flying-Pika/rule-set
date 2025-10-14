@@ -8,6 +8,7 @@ DOMAIN,sns.synology.com
 DOMAIN,v4.plex.tv
 DOMAIN,e1c.tls.ink
 DOMAIN,e1c1.tls.ink
+DOMAIN,dash.xns.one
 
 DOMAIN-SUFFIX,homeassistant.local
 DOMAIN-SUFFIX,i234.me
