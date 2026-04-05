@@ -28,8 +28,6 @@ DOMAIN,v4.plex.tv
 DOMAIN,e1c.tls.ink
 DOMAIN,4.s4pcu4tacst8.ucb7tzepetrsn1.223789.xyz
 
-DOMAIN-KEYWORD,023168
-
 DOMAIN-SUFFIX,cdn.223789.xyz
 DOMAIN-SUFFIX,homeassistant.local
 DOMAIN-SUFFIX,xns.one
