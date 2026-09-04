@@ -18,11 +18,13 @@ DOMAIN,emby-data.wx1.us.kg
 DOMAIN,emby-data.xnn.ee
 
 DOMAIN,checkip.synology.com
+DOMAIN,checkip.dyndns.org
 DOMAIN,checkipv6.synology.com
 DOMAIN,checkport.synology.com
 DOMAIN,ddns.synology.com
 DOMAIN,account.synology.com
-DOMAIN,sns.synology.com
+DOMAIN,checkipv6.quickconnect.to
+DOMAIN,global.quickconnect.to
 
 DOMAIN,v4.plex.tv
 DOMAIN,e1c.tls.ink
