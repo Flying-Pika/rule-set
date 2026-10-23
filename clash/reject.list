@@ -1,4 +1,4 @@
-# 秋风去广告规则直连补充
+# 秋风去广告规则补充
 DOMAIN,access.mypikpak.com
 DOMAIN,dns.weixin.qq.com.cn
 
@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN,ad-api.adn-plus.com.cn
+DOMAIN,tobapplog.ctobsnssdk.com
+DOMAIN,tnc3-alisc1.zijieapi.com
